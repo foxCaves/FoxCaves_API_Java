@@ -1,6 +1,6 @@
 package es.foxcav.api.java.models;
 
-public class User {
+public class User extends BaseModel {
     public String name;
     public String email;
     public boolean active;

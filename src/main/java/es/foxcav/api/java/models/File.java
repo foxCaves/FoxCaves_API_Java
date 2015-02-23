@@ -1,6 +1,6 @@
 package es.foxcav.api.java.models;
 
-public class File {
+public class File extends BaseModel {
     public String displayName;
     public String fileID;
     public String extension;
